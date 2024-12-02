@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name" translatable="false">WeatherApplication</string>
+    <string name="Search_for_any_location">Search for any location</string>
+    <string name="Humidity">Humidity</string>
+    <string name="Wind_Speed">Wind Speed</string>
+    <string name="UV">UV</string>
+    <string name="Participation">Participation</string>
+    <string name="Local_Time">Local Time</string>
+    <string name="Local_Date">Local Date</string>
+    <string name="If_you_want_to_change_the_language_settings_of_the_application_Settings_System_Languages_and_change" translatable="false">If you want to change the language settings of the application; Settings>System>Languages and change</string>
+
+
+
+
+</resources>

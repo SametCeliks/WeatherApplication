@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Search_for_any_location">Buscar cualquier ubicación</string>
+    <string name="Humidity">Humedad</string>
+    <string name="Wind_Speed">Velocidad del viento</string>
+    <string name="UV">Rayo de sol (UV)</string>
+    <string name="Participation">Participación</string>
+    <string name="Local_Time">Hora Local</string>
+    <string name="Local_Date">Local Fecha</string>
+    <string name="If_you_want_to_change_the_language_settings_of_the_application_Settings_System_Languages_and_change" translatable="false">Si desea cambiar la configuración de idioma de la aplicación; Ajustes>Sistema>Idiomas y cambiar</string>
+
+
+
+</resources>

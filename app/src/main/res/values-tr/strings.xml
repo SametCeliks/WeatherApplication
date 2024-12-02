@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Search_for_any_location">Herhangi bir konumu arayın</string>
+    <string name="Humidity">Nem</string>
+    <string name="Wind_Speed">Rüzgar Hızı</string>
+    <string name="UV">Güneş Işını</string>
+    <string name="Participation">Hava Katılımı</string>
+    <string name="Local_Time">Yerel Saat</string>
+    <string name="Local_Date">Yerel Tarih</string>
+    <string name="If_you_want_to_change_the_language_settings_of_the_application_Settings_System_Languages_and_change">Bu uygulamanın dil ayarlarını değiştirmek isterseniz; Ayarlar>Sistem>Diller ve değiştir</string>
+
+
+
+
+</resources>
