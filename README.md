@@ -74,3 +74,12 @@ DİFFERENT LANGUAGES
 
 
 ![Screenshot_20241202_111213](https://github.com/user-attachments/assets/399113e7-637a-4e3c-96aa-09039af815ef)
+
+
+
+
+
+
+https://github.com/user-attachments/assets/8d3cf191-81e2-4cdc-a516-9456cf2997a8
+
+
